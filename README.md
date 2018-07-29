@@ -30,4 +30,4 @@ print('%s 为男性的概率%4.2f%%' % (name, genderGuesser.getMaleProbability(n
 2. 建立模型
 3. 查找最优权重参数
 4. 完成
-详情[查看原作者PDF说明]()
+详情[查看原作者PDF说明](gender_guesser_ppt_by_wudi.pdf)
